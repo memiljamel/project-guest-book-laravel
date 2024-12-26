@@ -2,7 +2,7 @@
 
 The Guestbook project is a web application built using Laravel, Tw-Elements, and TailwindCSS for efficient guest management.
 
-![Home Page](https://drive.usercontent.google.com/download?id=13vGl_RFrWccvnFN2PnTdNJp6b2RB-eA2)
+![Home Page](https://drive.usercontent.google.com/download?id=1xUzKFzDIsdWab_NsflDpi3XvBjAzA1V6)
 
 ## Table of Contents
 
@@ -31,12 +31,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/memiljamel/project-guest-book.git
+   git clone https://github.com/memiljamel/project-guest-book-laravel.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd project-guest-book
+   cd project-guest-book-laravel
    ```
 
 3. Install dependencies.
