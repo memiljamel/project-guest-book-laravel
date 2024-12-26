@@ -85,6 +85,12 @@ Make sure you have the following installed:
 
 After completing the installation steps and the server is running, open your browser and navigate to [http://localhost:8000](http://localhost:8000).
 
+Use the following credentials to access the application as an administrator:
+- **email:** admin@domain.com
+- **password:** aB3@fR8$9Jp
+
+> **Note:** It is recommended to change the default credentials after the first login for security purposes.
+
 ## Features
 
 - **Guest Registration:** Allows guests to register their information, including name, contact details, and visit purpose.
